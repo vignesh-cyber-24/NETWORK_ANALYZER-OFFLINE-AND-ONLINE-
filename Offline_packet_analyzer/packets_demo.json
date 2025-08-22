@@ -1,0 +1,26 @@
+[
+  {
+    "Protocol": "TCP",
+    "Source IP": "10.160.85.64",
+    "Source Port": 48530,
+    "Destination IP": "34.107.221.82",
+    "Destination Port": 80,
+    "Length": 66
+  },
+  {
+    "Protocol": "UDP",
+    "Source IP": "192.168.1.10",
+    "Source Port": 53,
+    "Destination IP": "192.168.1.1",
+    "Destination Port": 1234,
+    "Length": 70
+  },
+  {
+    "Protocol": "ICMP",
+    "Source IP": "10.0.0.2",
+    "Source Port": null,
+    "Destination IP": "10.0.0.1",
+    "Destination Port": null,
+    "Length": 98
+  }
+]
